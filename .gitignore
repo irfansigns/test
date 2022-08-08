@@ -13,9 +13,7 @@ node_modules/
 Video/
 
 webalizer/
-sessions/
-logs/
-framework/
+
 
 /project_store
 
